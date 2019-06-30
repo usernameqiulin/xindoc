@@ -1,0 +1,329 @@
+{
+    "all": [{
+
+            "id": "1",
+            "type": "project",
+            "confition": "content",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "工程",
+                "allbids": "公开招标",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项此处显示项目名称目名称，此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        }, {
+
+            "id": "2",
+            "type": "purchase",
+            "confition": "content",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "采购",
+                "allbids": "单一来源",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项此处显示项目名称目名称，此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        },
+        {
+
+            "id": "3",
+            "type": "land",
+            "confition": "content",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "土地",
+                "allbids": "有底牌挂架",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示此处显示项目名称项目名称，此处显示项目名称，此处显示项目名称，",
+                "filemoney": "免费",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00",
+                "finishtime": "2016/02/13  09:00:00"
+            }
+        },
+        {
+
+            "id": "4",
+            "type": "property",
+            "confition": "content",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "产权",
+                "allbids": "有底牌挂架",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        },
+        {
+
+            "id": "5",
+            "type": "",
+            "confition": "abort",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "工程",
+                "allbids": "公开招标",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        },
+        {
+
+            "id": "6",
+            "type": "purchase",
+            "confition": "abort",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "采购",
+                "allbids": "单一来源",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        },
+        {
+
+            "id": "7",
+            "type": "land",
+            "confition": "abort",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "土地",
+                "allbids": "有底牌悬架",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        },
+        {
+
+            "id": "8",
+            "name": "project",
+            "type": "",
+            "confition": "abort",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "产权",
+                "allbids": "有底牌挂架",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，此处显示项目名称，",
+                "filemoney": "免费",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00",
+                "finishtime": "2016/02/13  09:00:00"
+            }
+        },
+        {
+
+            "id": "9",
+            "type": "project",
+            "confition": "content",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "工程",
+                "allbids": "有底牌挂架",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        },
+        {
+
+            "id": "10",
+            "type": "purchase",
+            "confition": "abort",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "采购",
+                "allbids": "单一来源",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        }, {
+
+            "id": "11",
+            "type": "project",
+            "confition": "content",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "工程",
+                "allbids": "公开招标",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        }, {
+
+            "id": "12",
+            "type": "purchase",
+            "confition": "content",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "采购",
+                "allbids": "单一来源",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        },
+        {
+
+            "id": "13",
+            "type": "land",
+            "confition": "content",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "土地",
+                "allbids": "有底牌挂架",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，",
+                "filemoney": "免费",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00",
+                "finishtime": "2016/02/13  09:00:00"
+            }
+        },
+        {
+
+            "id": "14",
+            "type": "property",
+            "confition": "content",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "产权",
+                "allbids": "有底牌挂架",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        },
+        {
+
+            "id": "15",
+            "type": "",
+            "confition": "abort",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "工程",
+                "allbids": "公开招标",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        },
+        {
+
+            "id": "16",
+            "type": "purchase",
+            "confition": "abort",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "采购",
+                "allbids": "单一来源",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        },
+        {
+
+            "id": "17",
+            "type": "land",
+            "confition": "abort",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "土地",
+                "allbids": "有底牌悬架",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        },
+        {
+
+            "id": "18",
+            "name": "project",
+            "type": "",
+            "confition": "abort",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "产权",
+                "allbids": "有底牌挂架",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，此处显示项目名称，",
+                "filemoney": "免费",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00",
+                "finishtime": "2016/02/13  09:00:00"
+            }
+        },
+        {
+
+            "id": "19",
+            "type": "project",
+            "confition": "content",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "工程",
+                "allbids": "有底牌挂架",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        }, {
+
+            "id": "20",
+            "type": "purchase",
+            "confition": "content",
+            "content": {
+                "url": "images/lihdbg1.png",
+                "projectname": "采购",
+                "allbids": "单一来源",
+                "number": "AGL170019-02SG",
+                "content": "此处显示项目名称，此处显示项目名称此处显示项目名称，此处显示项目名称，此处显示项目名称，",
+                "filemoney": "6000元",
+                "guarantee": "5000元",
+                "begintime": "2016/02/12  09:00:00"
+            }
+        }
+
+
+
+
+    ]
+}

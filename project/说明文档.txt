@@ -1,0 +1,9 @@
+启动: 使用json-server搭建的本地接口
+	启动项目前先安装json-server
+	安装方法:全局安装:npm install -g json-server
+              进入json文件夹下开启一个cmd 
+安装依赖包:npm install json-server --save 	
+启动接口:npm run json:server 
+打开index.html文件即可
+
+方式:Jquery库+原生js+Animate.css
